@@ -1,10 +1,10 @@
 import React from "react"
 
+import World from './components/World'
+
 const App = () => {
   return (
-    <div>
-      <p>React here!</p>
-    </div>
+    <World />
   );
 };
 
